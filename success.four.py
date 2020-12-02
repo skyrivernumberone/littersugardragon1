@@ -9,3 +9,6 @@ while x==0 :
 
     else:
         print('you are a f1oolish')
+
+
+print('mysterysway')
